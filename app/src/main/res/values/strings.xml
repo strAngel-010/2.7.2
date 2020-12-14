@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">2.7.2</string>
+    <string name="loginHint">login</string>
+    <string name="passwordHint">password</string>
+    <string name="signIn">Вход</string>
+    <string name="signUp">Регистрация</string>
+    <string name="textView">Проверка пароля</string>
+    <string name="heading"><font size="25">Регистрация пользователя</font></string>
+    <string name="rightPassword"><font fgcolor="green">Верно</font></string>
+    <string name="wrongPassword"><font fgcolor="red">Вы ошиблись в логине или пароле</font></string>
+</resources>
